@@ -1,1 +1,1 @@
-# DS-8
+# Data Science project 8
